@@ -11,7 +11,7 @@ void setup()
 {
   size(500,500);
   strokeWeight(3);
-  background(800);
+  background(0,0,30);
   triangle(0,290,0,210,250,250);
   triangle(0,160,0,230,150,200);
   triangle(0,270,0,340,150,300);
